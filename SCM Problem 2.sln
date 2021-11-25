@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCM Problem 2", "SCM Problem 2\SCM Problem 2.csproj", "{99B13002-E93B-4223-A8A6-1C8335CDBB89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{BEEFA73A-D610-4FE2-B56B-E39F7121CBF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B13002-E93B-4223-A8A6-1C8335CDBB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B13002-E93B-4223-A8A6-1C8335CDBB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B13002-E93B-4223-A8A6-1C8335CDBB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B13002-E93B-4223-A8A6-1C8335CDBB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEEFA73A-D610-4FE2-B56B-E39F7121CBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEFA73A-D610-4FE2-B56B-E39F7121CBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEFA73A-D610-4FE2-B56B-E39F7121CBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEFA73A-D610-4FE2-B56B-E39F7121CBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE4F486B-71C1-44C3-80EA-8E832B37FEA7}
+	EndGlobalSection
+EndGlobal
